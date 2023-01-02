@@ -1,0 +1,5 @@
+C:\Users\Win10\Desktop\Klasörler\oyun\bin\Release\netcoreapp3.1\publish\oyun.exe
+C:\Users\Win10\Desktop\Klasörler\oyun\bin\Release\netcoreapp3.1\publish\oyun.dll
+C:\Users\Win10\Desktop\Klasörler\oyun\bin\Release\netcoreapp3.1\publish\oyun.deps.json
+C:\Users\Win10\Desktop\Klasörler\oyun\bin\Release\netcoreapp3.1\publish\oyun.runtimeconfig.json
+C:\Users\Win10\Desktop\Klasörler\oyun\bin\Release\netcoreapp3.1\publish\oyun.pdb
